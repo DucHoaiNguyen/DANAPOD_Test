@@ -1,4 +1,5 @@
 // Load the http module to create an HTTP server.
+// Make public this source code repo so that everyone can access it from Ms Teams
 const http = require('http');
 
 // Configure the HTTP server to respond with "Hello World" to all requests.
