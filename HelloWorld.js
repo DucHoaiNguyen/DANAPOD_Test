@@ -1,4 +1,4 @@
-// Load the http module to create an HTTP server.
+// Load the http module to create an HTTP server...
 const http = require('http');
 
 // Configure the HTTP server to respond with "Hello World" to all requests.
